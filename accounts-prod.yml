@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Hey, welcome to accounts related webhook APIs"
   contactDetails:
-    name: "Siddhu - Product Owner"
+    name: "Siddu - Product Owner"
     email: "siddhu@gmail.com"
   onCallSupport:
     - (453) 392-4829
